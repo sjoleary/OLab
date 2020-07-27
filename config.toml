@@ -1,5 +1,5 @@
 title = "Shannon J. O'Leary"
-baseURL = "https://example.com/"
+baseURL = "https://olab.netlify.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
