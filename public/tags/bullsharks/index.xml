@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bullsharks on Shannon J. O&#39;Leary</title>
+    <link>/tags/bullsharks/</link>
+    <description>Recent content in bullsharks on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bullsharks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natural tags identify nursery origin of a coastal elasmobranch Carcharhinus leucas</title>
+      <link>/publications/bullsharksnurseryorigin/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/bullsharksnurseryorigin/</guid>
+      <description>Traditional methods for evaluating the importance of elasmobranch nursery habitats have focused on estimating densities or abundances of juveniles within individual nurseries; however, rates of juvenile mortality may vary among nurseries. Thus, abundance may not reflect contribution to adult populations, and contribution estimates require methods to identify the nursery origin of adults. We evaluated the use of natural tags, vertebral chemistry (stable isotope analysis, elemental analysis) and genetic markers, to identify bull shark Carcharhinus leucas nursery origin along the Texas coast (northwestern Gulf of Mexico) at multiple spatial scales.</description>
+    </item>
+    
+  </channel>
+</rss>

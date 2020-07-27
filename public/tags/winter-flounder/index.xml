@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>winter flounder on Shannon J. O&#39;Leary</title>
+    <link>/tags/winter-flounder/</link>
+    <description>Recent content in winter flounder on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/winter-flounder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Severe inbreeding and small effective number of breeders in a formerly abundant marine fish</title>
+      <link>/publications/wfinbreeding/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wfinbreeding/</guid>
+      <description>In contrast to freshwater fish it is presumed that marine fish are unlikely to spawn with close relatives due to the dilution effect of large breeding populations and their propensity for movement and reproductive mixing. Inbreeding is therefore not typically a focal concern of marine fish management. We measured the effective number of breeders in 6 New York estuaries for winter flounder (Pseudopleuronectes americanus), a formerly abundant fish, using 11 microsatellite markers (6–56 alleles per locus).</description>
+    </item>
+    
+    <item>
+      <title>Novel microsatellite loci for winter flounder (Pseudopleuronectus americanus)</title>
+      <link>/publications/wfmicrosats/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wfmicrosats/</guid>
+      <description>Since the 1980s, heavy exploitation has led to severe population declines in winter flounder, Pseudopleuronectes americanus, a demersal flatfish inhabiting the inshore bays and estuaries of the Northwest Atlantic. Recent studies using a limited number of non-specific microsatellite loci have demonstrated fine-scale population structure. Here, we present 21 novel species-specific microsatellite loci to enhance studies of genetic diversity, population differentiation, effective population size and mating behavior of this important commercial species.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microsatellites on Shannon J. O&#39;Leary</title>
+    <link>/tags/microsatellites/</link>
+    <description>Recent content in microsatellites on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/microsatellites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic mixed‐stock analysis of Atlantic sturgeon Acipenser oxyrinchus oxyrinchus in a heavily exploited marine habitat indicates the need for routine genetic monitoring</title>
+      <link>/publications/mixedstocksturgeon/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/mixedstocksturgeon/</guid>
+      <description>Although a previous genetic mixed‐stock analysis (gMSA) conducted in the early 1990s showed that marine‐captured New York Bight Atlantic sturgeon Acipenser oxyrinchus oxyrinchus almost exclusively originated from the Hudson River, fish from southern U.S. rivers were well represented within this contemporary sample (n = 364 fish), at least during the autumn. Widely distributed spawning stocks are therefore exposed to heavy fishing activity and habitat degradation in this relatively small area, illustrating the need for spatial management across multiple management jurisdictions and routine gMSA to account for temporal change.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>white sharks on Shannon J. O&#39;Leary</title>
+    <link>/tags/white-sharks/</link>
+    <description>Recent content in white sharks on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/white-sharks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic Diversity of White Sharks, Carcharodon carcharias, in the Northwest Atlantic and Southern Africa</title>
+      <link>/publications/greatwhitesgendiv/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/greatwhitesgendiv/</guid>
+      <description>The white shark, Carcharodon carcharias, is both one of the largest apex predators in the world and among the most heavily protected marine fish. Population genetic diversity is in part shaped by recent demographic history and can thus provide information complementary to more traditional population assessments, which are difficult to obtain for white sharks and have at times been controversial. Here, we use the mitochondrial control region and 14 nuclear-encoded microsatellite loci to assess white shark genetic diversity in 2 regions: the Northwest Atlantic (NWA, N = 35) and southern Africa (SA, N = 131).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pop structure on Shannon J. O&#39;Leary</title>
+    <link>/tags/pop-structure/</link>
+    <description>Recent content in pop structure on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pop-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population Structure of Atlantic Croakers from the Gulf of Mexico: Evaluating a Single‐Stock Hypothesis Using a Genomic Approach</title>
+      <link>/publications/croaker/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/croaker/</guid>
+      <description>The geographic structure of marine fish populations is an important element used in defining stock units, and genetic data have historically been used for this purpose. Here, genetic data were used to elicit population genomic patterns for Atlantic Croakers Micropogonias undulatus collected at five locations in the Gulf of Mexico (hereafter, “Gulf”) and a single location in the southern U.S. Atlantic. Mitochondrial DNA (mtDNA ) haplotypes were used as a baseline for historical lineage delineation and in a comparison with a previous Atlantic Croaker study that was centered on the Atlantic coast.</description>
+    </item>
+    
+  </channel>
+</rss>

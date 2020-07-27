@@ -1,0 +1,20 @@
+[
+	{
+        "role":"Postdoctoral Research Associate",
+        "company":"Meek Lab",
+        "summary":"Check out ongoing research at the [Meek Lab](http://meeklab.com)",
+        "range":"January 2015 - October 2019"
+    },
+    {
+        "role":"Postdoctoral Research Associate",
+        "company":"Marine Genomics Lab",
+        "summary":"Check out ongoing research at [MGL](https://www.marinegenomicslab.tamucc.edu)",
+        "range":"October 2019 - July 2020"
+    },
+    {
+        "role":"Lecturer",
+        "company":"Towson University.",
+        "summary":"Taught Ecology & Evolution (Lecture/Lab), Biodiversity (Lecture), Molecular Ecology & Evolution (seminar)",
+        "range":"August 2013 - December 2014"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mixed stock analysis on Shannon J. O&#39;Leary</title>
+    <link>/tags/mixed-stock-analysis/</link>
+    <description>Recent content in mixed stock analysis on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mixed-stock-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natural tags identify nursery origin of a coastal elasmobranch Carcharhinus leucas</title>
+      <link>/publications/bullsharksnurseryorigin/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/bullsharksnurseryorigin/</guid>
+      <description>Traditional methods for evaluating the importance of elasmobranch nursery habitats have focused on estimating densities or abundances of juveniles within individual nurseries; however, rates of juvenile mortality may vary among nurseries. Thus, abundance may not reflect contribution to adult populations, and contribution estimates require methods to identify the nursery origin of adults. We evaluated the use of natural tags, vertebral chemistry (stable isotope analysis, elemental analysis) and genetic markers, to identify bull shark Carcharhinus leucas nursery origin along the Texas coast (northwestern Gulf of Mexico) at multiple spatial scales.</description>
+    </item>
+    
+    <item>
+      <title>Genetic mixed‐stock analysis of Atlantic sturgeon Acipenser oxyrinchus oxyrinchus in a heavily exploited marine habitat indicates the need for routine genetic monitoring</title>
+      <link>/publications/mixedstocksturgeon/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/mixedstocksturgeon/</guid>
+      <description>Although a previous genetic mixed‐stock analysis (gMSA) conducted in the early 1990s showed that marine‐captured New York Bight Atlantic sturgeon Acipenser oxyrinchus oxyrinchus almost exclusively originated from the Hudson River, fish from southern U.S. rivers were well represented within this contemporary sample (n = 364 fish), at least during the autumn. Widely distributed spawning stocks are therefore exposed to heavy fishing activity and habitat degradation in this relatively small area, illustrating the need for spatial management across multiple management jurisdictions and routine gMSA to account for temporal change.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linkage map on Shannon J. O&#39;Leary</title>
+    <link>/tags/linkage-map/</link>
+    <description>Recent content in linkage map on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/linkage-map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic mapping and comparative genomics to inform restoration enhancement and culture of southern flounder, Paralichthys lethostigma</title>
+      <link>/publications/sthflounderlinkmap/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/sthflounderlinkmap/</guid>
+      <description>Southern flounder, Paralichthys lethostigma, historically support a substantial fishery along the Atlantic and Gulf coasts of the southern United States. Low year-class strengths over the past few years in the western Gulf of Mexico have raised concern that spawning stocks may be overfished. Current management of the resource includes releasing hatchery-raised juveniles to restock bays and estuaries; additionally, there is a growing interest in the potential for commercial aquaculture of the species.</description>
+    </item>
+    
+  </channel>
+</rss>

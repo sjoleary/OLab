@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>benthic invertebrates on Shannon J. O&#39;Leary</title>
+    <link>/tags/benthic-invertebrates/</link>
+    <description>Recent content in benthic invertebrates on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/benthic-invertebrates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flood pulse effects on benthic invertebrate assemblages in the hypolacustric interstitial zone of Lake Constance</title>
+      <link>/publications/benthinvert/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/benthinvert/</guid>
+      <description>In contrast to rivers, the effects of water level fluctuations on the biota are severely understudied in lakes. Lake Constance has a naturally pulsing hydrograph with average amplitudes of 1.4 m between winter drought and summer flood seasons (annual flood pulse (AFP)). Additionally, heavy rainstorms in summer have the potential to create short-term summer flood pulses (SFP). The flood pulse concept for lakes predicts that littoral organisms should be adapted to the regularly occurring AFP, ie taking advantage of benefits such as an influx of food sources and low predator pressure, though these organisms will not possess adaptations for the SFP.</description>
+    </item>
+    
+  </channel>
+</rss>

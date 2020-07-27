@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNP filtering on Shannon J. O&#39;Leary</title>
+    <link>/tags/snp-filtering/</link>
+    <description>Recent content in SNP filtering on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/snp-filtering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>These aren’t the loci you’re looking for: Principles of effective SNP filtering for molecular ecologists</title>
+      <link>/publications/snpfiltering/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/snpfiltering/</guid>
+      <description>Sequencing reduced‐representation libraries of restriction site‐associated DNA (RAD seq) to identify single nucleotide polymorphisms (SNP s) is quickly becoming a standard methodology for molecular ecologists. Because of the scale of RAD seq data sets, putative loci cannot be assessed individually, making the process of filtering noise and correctly identifying biologically meaningful signal more difficult. Artefacts introduced during library preparation and/or bioinformatic processing of SNP data can create patterns that are incorrectly interpreted as indicative of population structure or natural selection.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>great whites on Shannon J. O&#39;Leary</title>
+    <link>/tags/great-whites/</link>
+    <description>Recent content in great whites on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/great-whites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Novel microsatellite loci for white, Carcharodon carcharias and sandtiger sharks, Carcharias taurus (order Lamniformes)</title>
+      <link>/publications/greatwhitesmicrosats/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/greatwhitesmicrosats/</guid>
+      <description>The white shark, Carcharodon carcharias, and sand tiger shark, Carcharias taurus, are large-bodied lamniform sharks, which are apex predators throughout the temperate zone worldwide. Both species have very low rate of intrinsic population increase and are of conservation concern due to past or present overexploitation. So far only a few microsatellite loci have been developed for population genetics studies on these sharks. Here we present ten novel loci for white sharks and five novel loci for sand tigers.</description>
+    </item>
+    
+  </channel>
+</rss>

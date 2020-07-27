@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>effective populations size on Shannon J. O&#39;Leary</title>
+    <link>/tags/effective-populations-size/</link>
+    <description>Recent content in effective populations size on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/effective-populations-size/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population genetics and geometric morphometrics of the key silverside, Menidia conchorum, a marine fish in a highly-fragmented, inland habitat</title>
+      <link>/publications/menconchorum/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/menconchorum/</guid>
+      <description>Gene flow between populations is restricted in fragmented habitats, which can promote a more rapid genetic diversification as evolutionary forces act on isolated gene pools. Here, we compare two silverside species occurring in a continuous coastal habitat (tidewater silverside, Menidia peninsulae Goode and Bean, 1879) vs a highly fragmented habitat consisting of hypersaline pools (key silverside, Menidia conchorum Hildebrand and Ginsburg, 1927). First, we aim to better resolve the morphological and genetic relationships between the two nominal species using a haplotype analysis at two loci (NADH dehydrogenase 2, internal transcribed space r2) and geometric morphometrics.</description>
+    </item>
+    
+    <item>
+      <title>Genetic Diversity of White Sharks, Carcharodon carcharias, in the Northwest Atlantic and Southern Africa</title>
+      <link>/publications/greatwhitesgendiv/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/greatwhitesgendiv/</guid>
+      <description>The white shark, Carcharodon carcharias, is both one of the largest apex predators in the world and among the most heavily protected marine fish. Population genetic diversity is in part shaped by recent demographic history and can thus provide information complementary to more traditional population assessments, which are difficult to obtain for white sharks and have at times been controversial. Here, we use the mitochondrial control region and 14 nuclear-encoded microsatellite loci to assess white shark genetic diversity in 2 regions: the Northwest Atlantic (NWA, N = 35) and southern Africa (SA, N = 131).</description>
+    </item>
+    
+    <item>
+      <title>Genetic diversity and effective size of Atlantic sturgeon, Acipenser oxyrhinchus oxyrhinchus river spawning populations estimated from the microsatellite genotypes of marine-captured juveniles</title>
+      <link>/publications/stugeonne/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/stugeonne/</guid>
+      <description>Juvenile Atlantic sturgeon (Acipenser oxyrhinchus oxyrhinchus) forming aggregations at coastal sites in the mid-Atlantic Bight were subjected to a mixed stock analysis (MSA) and individual-based assignment using twelve microsatellite loci. We confirmed earlier findings from an analysis of mitochondrial DNA that three river spawning populations (Hudson, James and Delaware Rivers) are the primary sources of these particular marine aggregations. Of the 460 individuals sampled 322, 36 and 47 were assigned to the Hudson, James and Delaware Rivers, respectively.</description>
+    </item>
+    
+  </channel>
+</rss>

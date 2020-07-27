@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menidia on Shannon J. O&#39;Leary</title>
+    <link>/tags/menidia/</link>
+    <description>Recent content in Menidia on Shannon J. O&#39;Leary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/menidia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population genetics and geometric morphometrics of the key silverside, Menidia conchorum, a marine fish in a highly-fragmented, inland habitat</title>
+      <link>/publications/menconchorum/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/menconchorum/</guid>
+      <description>Gene flow between populations is restricted in fragmented habitats, which can promote a more rapid genetic diversification as evolutionary forces act on isolated gene pools. Here, we compare two silverside species occurring in a continuous coastal habitat (tidewater silverside, Menidia peninsulae Goode and Bean, 1879) vs a highly fragmented habitat consisting of hypersaline pools (key silverside, Menidia conchorum Hildebrand and Ginsburg, 1927). First, we aim to better resolve the morphological and genetic relationships between the two nominal species using a haplotype analysis at two loci (NADH dehydrogenase 2, internal transcribed space r2) and geometric morphometrics.</description>
+    </item>
+    
+  </channel>
+</rss>
