@@ -1,13 +1,12 @@
 ---
 description: "Genetic barcoding for species identification ... gut content analaysis, wildlife forensics and other applications."
-# fact: ' 700+ "pulls" from docker hub'
 featured: true
-# image: /img/docker-pipelines.webp
-# link: https://hub.docker.com/r/eddiewebb/bitbucket-pipelines-marketplace/
+image: /img/Genetic-barcoding.png
 tags:
-- 
-title: Genetic Barcoding
+title: 6. Genetic Barcoding
 ---
+
+Genetic barcoding for species identification ... gut content analaysis, wildlife forensics and other applications.
 
 ### Past Projects
 

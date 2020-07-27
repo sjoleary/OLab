@@ -1,13 +1,12 @@
 ---
 description: "Current study species include southern flounder, golden tilefish and gafftopsail fish."
-# fact: ' 700+ "pulls" from docker hub'
 featured: true
-# image: /img/docker-pipelines.webp
-# link: https://hub.docker.com/r/eddiewebb/bitbucket-pipelines-marketplace/
+image: /img/connectivity.png
 tags:
-- 
-title: Connectivity and local adaptation in marine fishes across their ranges
+title: 1. Connectivity and local adaptation in marine fishes across their ranges
 ---
+
+Current study species include southern flounder, golden tilefish and gafftopsail fish.
 
 ### Current Projects
 

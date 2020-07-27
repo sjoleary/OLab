@@ -1,13 +1,12 @@
 ---
 description: "Mixed stock analysis can be used to determine the contribution of individual rivers and estuaries that form the natal habitat and/or nurseries of juveniles recruiting to populations offshore."
-# fact: ' 700+ "pulls" from docker hub'
 featured: true
-# image: /img/docker-pipelines.webp
-# link: https://hub.docker.com/r/eddiewebb/bitbucket-pipelines-marketplace/
+image: /img/mixed-stock.png
 tags:
-- 
-title: Mixed stock analysis
+title: 5. Mixed stock analysis
 ---
+
+Mixed stock analysis can be used to determine the contribution of individual rivers and estuaries that form the natal habitat and/or nurseries of juveniles recruiting to populations offshore.
 
 ### Past Projects
 

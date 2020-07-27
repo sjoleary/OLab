@@ -25,7 +25,7 @@ We learn and do science together following three principles:
 
 #### 3. Nobody is expected to not make any mistakes, everybody is expected to learn from them.
 
-(*also, nobody has time to make all the mistakes themselves, learn from other people's mistakes*)
+(*also, nobody has time to make all the mistakes themselves, so learn from other people's mistakes*)
 
 ## Research
 

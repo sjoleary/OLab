@@ -1,13 +1,12 @@
 ---
 description: "Conservation Genetics focuses on small populations, past study species include white sharks, silversides, sturgeon, and winter flounder, ongoing research includes salmon and bullsharks."
-# fact: ' 700+ "pulls" from docker hub'
 featured: true
-# image: /img/docker-pipelines.webp
-# link: https://hub.docker.com/r/eddiewebb/bitbucket-pipelines-marketplace/
+image: /img/DNA.png
 tags:
-- 
-title: Genetic diversity of small populations
+title: 2. Genetic diversity of small populations
 ---
+
+Conservation Genetics focuses on small populations, past study species include white sharks, silversides, sturgeon, and winter flounder, ongoing research includes salmon and bullsharks.
 
 ### Current Projects
 
