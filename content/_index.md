@@ -1,12 +1,12 @@
 ---
-date: "`r Sys.Date()`"
+title: "Home"
 outputs:
 - html
 - rss
 - json
+date: "`r Sys.Date()`"
 sitemap:
   priority: 1
-title: Home
 ---
 Our **RESEARCH** focuses on the molecular ecology and conservation genomics of primarily marine fishes. We achieve this using genomic data sets to identify patterns of connectivity and population structure, explore the interaction with and adaptation to the environment on a genetic level, and determine how this applies to conservation and management. 
 
@@ -14,7 +14,8 @@ Our **RESEARCH** focuses on the molecular ecology and conservation genomics of p
 
 #### **Current Courses**:
 
-* Conservation Biology (BI328)
+* Conservation Biology (BI328, Fall)
+* General Biology II (BI104, Spring)
 
 
 We learn and do science together following three principles:
