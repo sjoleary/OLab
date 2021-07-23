@@ -14,8 +14,10 @@ Our **RESEARCH** focuses on the molecular ecology and conservation genomics of p
 
 #### **Current Courses**:
 
-* Conservation Biology (BI328, Fall)
-* General Biology II (BI104, Spring)
+* Conservation Biology
+* General Biology II
+* Biosphere at Risk
+* Data Science for the Natural Environment
 
 
 We learn and do science together following three principles:
